@@ -1,4 +1,4 @@
-#include "prog4.h"
+#include "header.h"
 int add(int v1, int v2)
 {
   return (v1 + v2);
